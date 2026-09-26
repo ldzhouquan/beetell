@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.DS_Store
+*.xcuserstate
+*.xcworkspace/xcuserdata/
+clients/*.xcodeproj/
+*.log
+.pi/
+*.egg-info/
